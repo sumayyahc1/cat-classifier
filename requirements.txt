@@ -1,4 +1,4 @@
-fastai>=2.0.0
+fastai
 fastbook
 voila
 ipywidgets
