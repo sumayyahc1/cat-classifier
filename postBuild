@@ -1,1 +1,2 @@
 jupyter serverextension enable voila --sys-prefix
+jupyter nbextension enable --py --sys-prefix widgetsnbextension
